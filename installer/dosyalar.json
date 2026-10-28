@@ -1,0 +1,65 @@
+[
+  {
+    "source": "Dosyalar/BFV_Intro.dll",
+    "area": "game",
+    "path": "BFV_Intro.dll",
+    "sha256": "a8e3062e25dafd8f0bf3cc9ff8ce09bc69e00187687f238616a8a19fad0486e2",
+    "size": 107008
+  },
+  {
+    "source": "Dosyalar/CryptBase.dll",
+    "area": "game",
+    "path": "CryptBase.dll",
+    "sha256": "3e87682118e593f334ba665826e2a6ab85ba460f2e1fe95b173a7199863ad454",
+    "size": 95744
+  },
+  {
+    "source": "Dosyalar/Data/layout.toc",
+    "area": "game",
+    "path": "Data/layout.toc",
+    "sha256": "f8f21260b224c2e359cf8fea543cb403f32f6a0cf6593d734d54f34def873216",
+    "size": 28727
+  },
+  {
+    "source": "Dosyalar/Data/mods.json",
+    "area": "game",
+    "path": "Data/mods.json",
+    "sha256": "43a979968436c100c324676cb174a9fe419d437cd37d141a846eba7e1afad54e",
+    "size": 146
+  },
+  {
+    "source": "Dosyalar/Data/win32/installation/initialexperience/cas.cat",
+    "area": "game",
+    "path": "Data/win32/installation/initialexperience/cas.cat",
+    "sha256": "37b5ad3276ec09c392c434c97ac43a2914f117189145e27ed14b8bbef590f856",
+    "size": 9924356
+  },
+  {
+    "source": "Dosyalar/Data/win32/installation/initialexperience/cas_13.cas",
+    "area": "game",
+    "path": "Data/win32/installation/initialexperience/cas_13.cas",
+    "sha256": "01156b0d68df37ec6af9111b628c6bfe70d10777fa4fda3ef6473dbd4d946eda",
+    "size": 1078630
+  },
+  {
+    "source": "Dosyalar/Data/win32/installation/initialexperience/cas_14.cas",
+    "area": "game",
+    "path": "Data/win32/installation/initialexperience/cas_14.cas",
+    "sha256": "74a38603803db254f704767d9f0dad9027ebbc44099625237088e7349d7844c2",
+    "size": 14807808
+  },
+  {
+    "source": "Dosyalar/dinput8.dll",
+    "area": "game",
+    "path": "dinput8.dll",
+    "sha256": "7da239e782c316d9377b8acd181f4883fad2e60369a81f37e94153e6a95c21f1",
+    "size": 343040
+  },
+  {
+    "source": "Belgeler/en_US-74558638.json",
+    "area": "documents",
+    "path": "Battlefield V/twinkle/assets/en_US-74558638.json",
+    "sha256": "a8465ee920892f6a0bb3cf4ff9ba7702f8a7e33720d8e59a9eb28367b24f40f3",
+    "size": 117800
+  }
+]
