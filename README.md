@@ -4,7 +4,6 @@
 
 ## İndir
 
-**[yama.zip — İndir](https://github.com/gggg-unit/battlefield-v-turkce-yama/releases/latest/download/yama.zip)**
 
 ## Kurulum
 
